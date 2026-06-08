@@ -1,0 +1,47 @@
+{
+  "SE481527944DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Pflegler 4, 79576 Weil am Rhein, Deutschland",
+    "receiver": "Werner Obermeier, Delpstraße 59, 33102 Paderborn, Deutschland",
+    "price": "8.300,00 €",
+    "description": "Hersteller: Harley-Davidson<br>Typ: Dyna Fat Bob<br>Fahrgestelnummer: 5HD1GY4448K316553<br>Erstzulassung: 04.01.2008<br>KM laut Vorbesitzer: 19600 km<br>Leistung: 57 kW (77 PS)<br>Hubraum: 1584 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Werner Obermeier<br>Delpstraße 59<br>33102 Paderborn<br>Deutschland<br>Telefon: +49 5251 36982",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "08.06.2026",
+    "deliveryDate": "12.06.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
