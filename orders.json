@@ -1,6 +1,6 @@
 {
   "SE481527944DE": {
-    "status": "Warten auf Zahlung",
+    "status": "Versandvorbereitung",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Pflegler 4, 79576 Weil am Rhein, Deutschland",
     "receiver": "Werner Obermeier, Delpstraße 59, 33102 Paderborn, Deutschland",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "08.06.2026",
-    "deliveryDate": "12.06.2026",
+    "deliveryDate": "12.06.2026 🕟 16:30 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
