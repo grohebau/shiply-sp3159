@@ -1,6 +1,6 @@
 {
   "SE481527944DE": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Pflegler 4, 79576 Weil am Rhein, Deutschland",
     "receiver": "Werner Obermeier, Delpstraße 59, 33102 Paderborn, Deutschland",
@@ -26,12 +26,12 @@
       }
     ],
     "orderDate": "08.06.2026",
-    "deliveryDate": "12.06.2026 🕟 16:30 Uhr",
+    "deliveryDate": "16.06.2026 🕒 15:00 Uhr",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Carl-Benz-Straße 11",
+      "postal_code": "60314",
+      "city": "Frankfurt am Main",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
